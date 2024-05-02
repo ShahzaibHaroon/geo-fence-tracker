@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">geofencing</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="access_location_description">To enable geofencing, your device needs access to your location. Please follow these steps:\n\n
+        1. Tap \'Allow While Using the App\' when prompted to grant location access.\n
+        2. After granting \'Allow While Using the App\', you\'ll be redirected to the location permission screen.\n
+        3. On the location permission screen, select \'Always Allow\' to enable background location access for geofencing.</string>
+    <string name="location_permission_note">Note: These permissions are required solely for geofencing purposes.</string>
+    <string name="proceed">PROCEED</string>
+    <string name="geofencing_permission_denied_message">To utilize geofencing, you need to enable location permissions. You will be redirected to the app settings screen, where you can select location permissions and grant \'Always Allow\' permission. After completing these steps, please try to proceed again.</string>
+    <string name="location_access_required">Location Access Required</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="location_permission_required">Location Permission Required</string>
+
+
+</resources>
